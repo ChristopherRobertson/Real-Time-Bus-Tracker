@@ -1,5 +1,8 @@
 # Real-Time-Bus-Tracker
-Tracks Buses between MIT and Harvard
+
+## Description
+
+This project Tracks the Buses between MIT and Harvard in real time. It updates the coordinates every few seconds and places a pin, either red or blue, depending on which direction the bus is going along the route. 
 
 ##  Useage
 
